@@ -58,12 +58,13 @@
 
 ---
 
-<!-- Contributions Snake -->
-<h2 align="center">🐍 My Contributions</h2>
-<p align="center">
-![snake gif](https://raw.githubusercontent.com/Rony-2004/Rony-2004/output/github-contribution-grid-snake.svg)
-  
-</p>
+<!--Snake--> 
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Rony-2004/Rony-2004/output/github-contribution-grid-snake.svg" />
+</div>
+<br/
 
 
 ---
@@ -72,4 +73,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-![snake gif](https://github.com/Rony-2004/Rony-2004/output/github-snake-dark.svg)
+
