@@ -41,6 +41,13 @@
 </p>
 
 ---
+<!--Snake--> 
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Rony-2004/Rony-2004/output/github-contribution-grid-snake.svg" />
+</div>
+<br/>
 
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
@@ -58,13 +65,7 @@
 
 ---
 
-<!--Snake--> 
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Rony-2004/Rony-2004/output/github-contribution-grid-snake.svg" />
-</div>
-<br/
 
 
 ---
