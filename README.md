@@ -61,7 +61,7 @@
 <!-- Contributions Snake -->
 <h2 align="center">🐍 My Contributions</h2>
 <p align="center">
-![snake gif](https://github.com/Rony-2004/Rony-2004/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Rony-2004/Rony-2004/tree/output/github-snake-dark.svg)
 </p>
 
 
