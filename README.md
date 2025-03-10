@@ -71,3 +71,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+![snake gif](https://github.com/Rony-2004/Rony-2004/output/github-snake-dark.svg)
