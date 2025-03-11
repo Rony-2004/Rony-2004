@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rony-2004&show_icons=true&locale=en&theme=nightowl" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rony-2004 &theme=nightowl&date_format=M%20j%5B%2C%20Y%5D&ring=7CFC00&fire=FF4500" alt="GitHub Streak" />
 </p>
 
 <p align="center">
