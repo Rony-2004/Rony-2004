@@ -59,9 +59,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Rony-2004&show_icons=true&locale=en&theme=nightowl" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+[<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rony-2004&theme=nightowl" alt="GitHub Streak" />
-</p>
+</p>](https://github-readme-streak-stats.herokuapp.com/?user=Rony-2004&theme=nightowl)
 
 ---
 
