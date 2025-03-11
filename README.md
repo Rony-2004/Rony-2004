@@ -49,30 +49,16 @@
 </div>
 <br/>
 
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rony-2004&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="Top Languages" />
-</p>
+<!--Contribution--> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rony-2004&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="akash202004" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rony-2004 &theme=nightowl&date_format=M%20j%5B%2C%20Y%5D&ring=7CFC00&fire=FF4500" alt="GitHub Streak" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rony-2004&show_icons=true&locale=en&theme=nightowl" alt="akash202004" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rony-2004&theme=nightowl" alt="GitHub Streak" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rony-2004&theme=nightowl" alt="akash202004" /></p>
 
+![](https://github-contributor-stats.vercel.app/api?username=Rony-2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-
-
-
-
----
-
-<!-- Footer -->
+<!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
