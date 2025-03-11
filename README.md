@@ -50,11 +50,11 @@
 <br/>
 
 <!--Contribution--> 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rony-2004&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="akash202004" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rony-2004&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="Rony-2004" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rony-2004&show_icons=true&locale=en&theme=nightowl" alt="akash202004" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rony-2004&show_icons=true&locale=en&theme=nightowl" alt="Rony-2004" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rony-2004&theme=nightowl" alt="akash202004" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rony-2004&theme=nightowl" alt="Rony-2004" /></p>
 
 ![](https://github-contributor-stats.vercel.app/api?username=Rony-2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
