@@ -39,11 +39,11 @@
 <p align="center">
   <img width="600px" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,mongo,postgres,redis,java,rust,c,html,css,tailwind,sass,materialui,vite,npm,git,github,docker,prisma,firebase,appwrite,postman,notion,idea,webstorm,vscode,discord&perline=8" />
 </p>
-# Hi there 👋
 
-![GitHub Followers](https://img.shields.io/github/followers/{Rony-2004}?label=Followers)
-![GitHub Stars](https://img.shields.io/github/stars/{Rony-2004}?label=Total%20Stars)
-![GitHub Contributions](https://img.shields.io/github/contributors/{Rony-2004}/repo)
+
+![GitHub Followers](https://img.shields.io/github/followers/Rony-2004?label=Followers)
+![GitHub Stars](https://img.shields.io/github/stars/Rony-2004?label=Total%20Stars)
+![GitHub Contributions](https://img.shields.io/github/contributors/Rony-2004/repo)
 
 ---
 <!--Snake--> 
