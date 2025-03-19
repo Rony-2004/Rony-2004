@@ -41,10 +41,7 @@
 </p>
 
 
-![GitHub Followers](https://img.shields.io/github/followers/Rony-2004?label=Followers)
-![GitHub Stars](https://img.shields.io/github/stars/Rony-2004?label=Total%20Stars)
-![GitHub Contributions](https://img.shields.io/github/contributors/Rony-2004/repo)
-![Stars](https://img.shields.io/github/stars/Rony-2004?style=social)
+
 
 
 ---
