@@ -60,7 +60,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rony-2004&theme=nightowl" alt="Rony-2004" /></p>
 
-![](https://github-contributor-stats.vercel.app/api?username=Rony-2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rony-2004&theme=nightowl)
+
 
 <!--Footer--> 
 <p align="center">
