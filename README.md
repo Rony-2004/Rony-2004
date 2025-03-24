@@ -59,8 +59,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rony-2004&show_icons=true&locale=en&theme=nightowl" alt="Rony-2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rony-2004&theme=nightowl" alt="Rony-2004" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Rony-2004)](https://git.io/streak-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rony-2004&theme=nightowl)
+
 
 
 <!--Footer--> 
