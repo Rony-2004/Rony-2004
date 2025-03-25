@@ -5,7 +5,7 @@
 
 <h2 align="center">🚀 Tools and Technologies</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,js,ts,python,react,css,html,webpack,tailwind,nodejs,express,reactnative,tensorflow,mongodb,mysql,postgres,realm,aws,docker,gcp,kubernetes,firebase,appwrite,heroku,dotnet,photoshop,figma,sketch,postman,middleman,unreal,linux,git,perl" alt="Tools & Technologies" />
+  <img src="https://skillicons.dev/icons?i=c,java,js,ts,python,react,css,html,webpack,tailwind,nodejs,express,reactnative,tensorflow,mongodb,mysql,postgres,aws,docker,gcp,kubernetes,firebase,heroku,dotnet,postman,linux,git" alt="Tools & Technologies" />
 </p>
 
 ---
@@ -24,7 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Rony-2004&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rony-2004&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Rony-2004&theme=radical" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rony-2004&layout=compact&theme=radical" alt="Top Languages" />
