@@ -39,18 +39,3 @@
   </a>
 </p>
 
-<style>
-  h1, h2, p {
-    animation: fadeIn 1.5s ease-in-out;
-  }
-  img {
-    transition: transform 0.3s ease-in-out;
-  }
-  img:hover {
-    transform: scale(1.1);
-  }
-  @keyframes fadeIn {
-    0% { opacity: 0; transform: translateY(-10px); }
-    100% { opacity: 1; transform: translateY(0); }
-  }
-</style>
