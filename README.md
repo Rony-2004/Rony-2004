@@ -8,7 +8,7 @@
   <img src="https://skillicons.dev/icons?i=c,java,js,ts,python,react,css,webpack,tailwind,nodejs,express,tensorflow,mongodb,mysql,postgres,aws,docker,gcp,kubernetes,firebase,heroku,dotnet,postman,linux,git" alt="Tools & Technologies" />
 </p>
 
----
+--- 
 
 <h2 align="center">⚡️ Connect with Me</h2>
 <p align="center">
