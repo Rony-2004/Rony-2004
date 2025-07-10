@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.gif" alt="Gojo Animation" width="600" />
+  <img src="assets/banner.gif" alt="Gojo Animation" width="300" />
 </p>
 <h1 align="center">Hi 👋, I'm Mowazzem Uddin Ahmed</h1>   
 <p align="center">A passionate Coder</p> 
