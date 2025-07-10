@@ -8,7 +8,23 @@
   <img src="https://skillicons.dev/icons?i=c,java,js,ts,python,react,css,webpack,tailwind,nodejs,express,tensorflow,mongodb,mysql,postgres,aws,docker,gcp,kubernetes,firebase,postman,linux,git" alt="Tools & Technologies" />
 </p>
 
---- 
+---
+
+<h2 align="center">🌍 Open Source Contributions</h2>
+<p align="center">
+  <a href="https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3ARony-2004" target="_blank">
+    <img src="https://img.shields.io/badge/Kubernetes-Contributor-blue?logo=kubernetes&style=for-the-badge" alt="Kubernetes Contributor Badge" />
+  </a>
+  <img src="https://img.shields.io/badge/CNCF-Open%20Source%20Contributor-blueviolet?logo=linuxfoundation&style=for-the-badge" alt="CNCF Contributor" />
+</p>
+
+<p align="center">
+📌 Actively contributing to Kubernetes and CNCF ecosystem<br/>
+💬 Fixed bugs and improved error messages in <strong>StatefulSet</strong> and <strong>e2e tests</strong><br/>
+🔧 Triaging flaky tests and contributing under <strong>SIG Apps</strong> & <strong>SIG Cloud Provider</strong><br/>
+</p>
+
+---
 
 <h2 align="center">⚡️ Connect with Me</h2>
 <p align="center">
