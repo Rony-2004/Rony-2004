@@ -40,12 +40,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rony-2004&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rony-2004&show_icons=true&count_private=true&theme=radical&include_all_commits=true" alt="Total Contributions" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rony-2004&theme=radical" alt="GitHub Summary" />
-</p>
-<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Rony-2004&theme=radical" alt="GitHub Trophies" />
   </a>
