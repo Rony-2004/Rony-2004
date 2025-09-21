@@ -17,15 +17,6 @@
 <p align="center">
   <a href="https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3ARony-2004" target="_blank">
     <img src="https://img.shields.io/badge/Kubernetes-Contributor-blue?logo=kubernetes&style=for-the-badge" />
-  </a>
-  <img src="https://img.shields.io/badge/CNCF-Contributor-2496ED?logo=linuxfoundation&style=for-the-badge" />
-</p>
-
-<p align="center">
-  📌 Actively contributing to Kubernetes and the CNCF ecosystem<br/>
-  💬 Fixed bugs and improved error messages in <strong>StatefulSet</strong> and <strong>e2e test suites</strong><br/>
-  🔧 Triaging flaky tests and working with <strong>SIG Apps</strong> & <strong>SIG Cloud Provider</strong>
-</p>
 
 ---
 
